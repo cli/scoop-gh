@@ -1,0 +1,22 @@
+{
+    "version": "0.5.3-pre.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cli/cli/releases/download/v0.5.3-pre.2/gh_0.5.3-pre.2_windows_386.zip",
+            "bin": [
+                "bin/gh.exe"
+            ],
+            "hash": "6e7998c253db1503d78e2a7c4cd9c9e03eb8461475a6de4d06b72ce339ab8487"
+        },
+        "64bit": {
+            "url": "https://github.com/cli/cli/releases/download/v0.5.3-pre.2/gh_0.5.3-pre.2_windows_amd64.zip",
+            "bin": [
+                "bin/gh.exe"
+            ],
+            "hash": "a0df9979f88ddcb4adee135a5dd92fda218eb9c2b0f36d8193174aed73556eb1"
+        }
+    },
+    "homepage": "https://github.com/cli/cli",
+    "license": "MIT",
+    "description": "GitHub CLI"
+}
