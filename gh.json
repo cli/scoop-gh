@@ -1,19 +1,19 @@
 {
-    "version": "0.5.3-pre.4",
+    "version": "0.5.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/cli/cli/releases/download/v0.5.3-pre.4/gh_0.5.3-pre.4_windows_386.zip",
+            "url": "https://github.com/cli/cli/releases/download/v0.5.3/gh_0.5.3_windows_386.zip",
             "bin": [
                 "bin/gh.exe"
             ],
-            "hash": "8bf789761f89ee58b0913acdf394fdca94dd96922ed6b2b72527567fccb585f5"
+            "hash": "d3f7e07030a5e7666413873635154f8a11a128337c804ad7f86ee8659ed587cf"
         },
         "64bit": {
-            "url": "https://github.com/cli/cli/releases/download/v0.5.3-pre.4/gh_0.5.3-pre.4_windows_amd64.zip",
+            "url": "https://github.com/cli/cli/releases/download/v0.5.3/gh_0.5.3_windows_amd64.zip",
             "bin": [
                 "bin/gh.exe"
             ],
-            "hash": "a430c2ada0e338181d3db7f4767fc6dd4f61b318d25dc04f5524f38bf74b2516"
+            "hash": "71d793a96c5a42eb34d6280b1d559b4187fb9f6d7903b9a3783473b9bc69bbd7"
         }
     },
     "homepage": "https://github.com/cli/cli",
