@@ -1,19 +1,19 @@
 {
-    "version": "0.5.5",
+    "version": "0.5.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/cli/cli/releases/download/v0.5.5/gh_0.5.5_windows_386.zip",
+            "url": "https://github.com/cli/cli/releases/download/v0.5.6/gh_0.5.6_windows_386.zip",
             "bin": [
                 "bin/gh.exe"
             ],
-            "hash": "d6dd3fd643d1369e58fc650a853937f7222a8b71925b48f765ac857771a3eb4e"
+            "hash": "e22e5eb1cd8a8eabf0b22915a3f26288eaabb3248b4ec7548f1bfef7434c4f57"
         },
         "64bit": {
-            "url": "https://github.com/cli/cli/releases/download/v0.5.5/gh_0.5.5_windows_amd64.zip",
+            "url": "https://github.com/cli/cli/releases/download/v0.5.6/gh_0.5.6_windows_amd64.zip",
             "bin": [
                 "bin/gh.exe"
             ],
-            "hash": "295fbb35de9076ff0bd98870dfc8f59507114327a030f52b24fc636d1700b18e"
+            "hash": "bbd78c561e60a137edba85a8dcb0cbfe892d55379f7b02794c65a1618d1095fb"
         }
     },
     "homepage": "https://github.com/cli/cli",
