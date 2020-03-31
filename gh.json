@@ -4,14 +4,14 @@
         "32bit": {
             "url": "https://github.com/cli/cli/releases/download/v0.6.3/gh_0.6.3_windows_386.zip",
             "bin": [
-                "bin/gh.exe.exe"
+                "bin/gh.exe"
             ],
             "hash": "39dfd70eb42521285133b6e7e4b9ca3b1177831d00e230680402a86ec622043c"
         },
         "64bit": {
             "url": "https://github.com/cli/cli/releases/download/v0.6.3/gh_0.6.3_windows_amd64.zip",
             "bin": [
-                "bin/gh.exe.exe"
+                "bin/gh.exe"
             ],
             "hash": "7b3af8c8df4a293ea5d00fbad7997e2cdcb517c367f09adf84bda28fa916036b"
         }
